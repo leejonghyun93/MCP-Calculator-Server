@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "my-calculator": {
+      "command": "node",
+      "args": ["C:/Users/fhohf/Desktop/my-mcp-project/server.js"]
+    }
+  }
+}
